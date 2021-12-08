@@ -29,12 +29,12 @@ and a couple of Node.js modules such as ‘busboy’ (Implementing the image upl
         
 - Step 3: Run command 
                   
-                  'npm install express busboy body-parser bcrypt fs pug --save' 
+                  npm install express busboy body-parser bcrypt fs pug --save 
                
 
 - Step 4: Run command 
 
-                   'node app.js'
+                   node app.js
 
 
 
@@ -55,7 +55,7 @@ and a couple of Node.js modules such as ‘busboy’ (Implementing the image upl
 
 - Then now you can open your browser, and enter the url link of the app 
                     
-                    "http://localhost:3000" 
+                    http://localhost:3000
   
   and get the web application for testing.
 
