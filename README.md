@@ -25,7 +25,7 @@ and a couple of Node.js modules such as ‘busboy’ (Implementing the image upl
                 Node.js download link: https://nodejs.org/en/download/
                 
 - Step 2: Once you finish download Node.js on your devece, just download the source code file 'nodejsmodule' to the directory you want,
-        and open command prompt and access to the directory where you stored the source code file with the command (cd [directory name).
+        and open command prompt and access to the directory where you stored the source code file with the command (cd [directory name]).
         
 - Step 3: Run command 
                   
